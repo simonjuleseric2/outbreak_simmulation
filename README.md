@@ -1,4 +1,4 @@
-# outbreak_simmulation
+# outbreak_simulation
 
 Simmulating outbreak with dot map from population data
 
