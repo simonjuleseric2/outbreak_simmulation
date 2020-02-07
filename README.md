@@ -9,4 +9,4 @@ https://github.com/simonjuleseric2/Swiss-population-density-map
 
 GIF of the simmulation:
 
-![](simmulation.gif)
+![](simulation.gif)
