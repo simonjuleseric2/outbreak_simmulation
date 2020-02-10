@@ -13,6 +13,6 @@ GIF of the simmulation:
 
 
 
-The simulation is largelly based on the SIR Model with R representing diseased patient. Details on the SIR model are available on here:
+The simulation is largelly based on the SIR Model, details are available here:
 
 https://en.wikipedia.org/wiki/Compartmental_models_in_epidemiology#The_SIR_model_is_dynamic_in_three_senses
